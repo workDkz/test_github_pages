@@ -1,0 +1,24 @@
+.body {
+    background: rgb(179, 36, 36);
+    min-height: 100%;
+    font-family: "Arial", sans-serif;
+  }
+
+  .wrap {
+    /* устанавливаем относительное позиционирование */
+    position: relative;
+    /* высота элементов */
+    height: 100%;
+    /* минимальная высота и отступы */
+    min-height: 500px;
+    padding-bottom: 20px;
+    background: #961010;
+  }
+
+  .Test {
+    color: aqua;
+  }
+
+  .modal-overlay {
+    color: blue;
+  }
